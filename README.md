@@ -16,3 +16,6 @@ It finds rule's number and it's membership value.
 
 ### ConflictChecking.m
 This function finds and deletes conflicts in rule base.
+
+### TableLookUpAlgorithem.m
+Main Program.

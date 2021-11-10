@@ -12,10 +12,13 @@ This program was developed as a course project for Fuzzy systems course by Habib
 A Function for Finding The Membership Function Value and The Membership Function Number of each Data.
 
 ### RuleFinder.m
-It finds rule's number and it's membership value. 
+It finds rule's number and it's membership value using MFDetector function. 
 
 ### ConflictChecking.m
 This function finds and deletes conflicts in rule base.
 
 ### TableLookUpAlgorithem.m
 Main Program.
+
+### Table Look Up Report.pdf
+Running Report and further details.

@@ -1,4 +1,4 @@
-# FuzzyTableLookUpAlgorithem
+# Fuzzy Table LookUp Algorithem
 Design of Fuzzy System Using Table Look Up Scheme Algorithm
 - Prediction of the Mackey-Glass chaotic time series.
 - Development of no conflict rule base and customization of the project for any membership function.

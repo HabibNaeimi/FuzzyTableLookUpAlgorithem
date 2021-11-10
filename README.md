@@ -21,4 +21,4 @@ This function finds and deletes conflicts in rule base.
 Main Program.
 
 ### Table Look Up Report.pdf
-Running Report and further details.
+Report and further details.

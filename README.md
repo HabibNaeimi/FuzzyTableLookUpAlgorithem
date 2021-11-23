@@ -5,7 +5,7 @@ Design of Fuzzy System Using Table Look Up Scheme Algorithm
 fuzzy system, and inference engine types.
 - The algorithm implements in MATLAB using Fozzy Logic Toolbox.
 
-This program was developed as a course project for Fuzzy systems course by Habibollah Naeimi.
+This program was developed as a course project for the Fuzzy systems course by Habibollah Naeimi.
 
 
 ### MFDetector.m
